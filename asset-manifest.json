@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/el7areef-2/static/css/main.b782337f.css",
+    "main.js": "/el7areef-2/static/js/main.42c4f5c3.js",
+    "index.html": "/el7areef-2/index.html",
+    "main.b782337f.css.map": "/el7areef-2/static/css/main.b782337f.css.map",
+    "main.42c4f5c3.js.map": "/el7areef-2/static/js/main.42c4f5c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b782337f.css",
+    "static/js/main.42c4f5c3.js"
+  ]
+}
