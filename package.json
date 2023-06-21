@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mohamedmostafa13.github.io/el7areef-vol.2",
+  "homepage": "https://mohamedmostafa13.github.io/el7areef-2",
   "name": "el7areef",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-      "predeploy": "yarn run build",
+      "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
